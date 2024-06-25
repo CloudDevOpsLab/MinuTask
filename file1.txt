@@ -1,1 +1,9 @@
-check this
+Linux
+Git
+Jenkins
+Docker
+Kubernetes
+Ansible
+Terraform
+Prometheus
+Grafana
