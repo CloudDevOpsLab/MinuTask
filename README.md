@@ -1,1 +1,3 @@
 # MinuTask
+Linux
+Git
