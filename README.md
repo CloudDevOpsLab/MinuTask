@@ -1,3 +1,4 @@
 # MinuTask
 Linux
 Git
+Docker
