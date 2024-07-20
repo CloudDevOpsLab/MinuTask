@@ -4,4 +4,5 @@ Git
 Docker
 Jenkins
 Docker
+Terraform
 
